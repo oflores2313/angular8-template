@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
+## Angular Material
+
+This project contains material version 8.2.3. In order to use Material make sure you import the API reference into the app.module.ts.  You can find the list of components on: `https://material.angular.io/components/categories`.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
